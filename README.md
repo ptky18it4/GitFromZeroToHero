@@ -1,4 +1,5 @@
 ﻿# GitFromZeroToHero
+```css
 :root {
   --gradient-dir1: to top right;
   --gradient-dir2: to bottom left;
@@ -208,3 +209,5 @@
 .codicon-accounts-view-bar-icon:before {
   content: "";
 } */
+
+```
